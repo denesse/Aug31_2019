@@ -1,0 +1,25 @@
+<resources>
+
+    <style name="myTheme" parent="Theme.MaterialComponents.DialogWhenLarge">
+        <item name="colorPrimary">@color/primaryColor</item>
+        <item name="colorAccent">@color/primaryLightColor</item>
+        <item name="colorPrimaryDark">@color/primaryDarkColor</item>
+        <item name="android:textColor">@color/primaryTextColor</item>
+    </style>
+
+    <style name="Style1">
+
+        <item name="android:background">#FFC107</item>
+        <item name="android:padding">4dp</item>
+    </style>
+
+    <style name="Style2">
+    <item name="android:textColor">#E0DFDF</item>
+    <item name="android:textStyle">bold</item>
+    </style>
+
+        <style name="Style3">
+            <item name="android:textColor">#DBD5D5</item>
+        </style>
+
+</resources>
